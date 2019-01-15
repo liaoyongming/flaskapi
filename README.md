@@ -1,7 +1,7 @@
 # flaskapi
-##flask +flask_restful +mysql
+## flask +flask_restful +mysql
 
-##初始化数据库
+## 初始化数据库
 
 在mysql中创建schema your_schema
 
