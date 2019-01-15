@@ -2,6 +2,7 @@
 ## flask +flask_restful +mysql
 
 ## 初始化数据库
+删掉项目文件夹migration
 
 在mysql中创建schema your_schema
 
